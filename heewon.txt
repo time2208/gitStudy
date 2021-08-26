@@ -1,3 +1,6 @@
 hewwon's commit
 function a(heewon){
+	var chan = 0;
+	chan += 1;
+	return chan;
 }
